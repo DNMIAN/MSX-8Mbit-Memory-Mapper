@@ -9,5 +9,5 @@ Operation confirmed parts list
 74HC139 x1 (U3)  
 74HC30 x1 (U4)  
 HM628512ALFP-7 x2 (U5, U6)  
-MLCC 0.1uF x6 (C1, C2, C3, C4, C5, C6)  
-EC 10uF x1 (C7)  
+MLCC 50V 0.1uF x6 (C1, C2, C3, C4, C5, C6)  
+EC 16V 10uF x1 (C7)  
