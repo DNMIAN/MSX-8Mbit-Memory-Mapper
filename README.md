@@ -2,9 +2,9 @@ MSX 8Mbit Memory Mapper
 
 At your own risk.  
 Proceed at your own discretion.  
+Please use it for personal only.  
 
-
-Operation confirmed parts list  
+Operation confirmed parts list.  
 74LS670 x2 (U1, U2)  
 74HC139 x1 (U3)  
 74HC30 x1 (U4)  
